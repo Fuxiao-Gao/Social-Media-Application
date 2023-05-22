@@ -1,6 +1,6 @@
 # MOMO social media application
 ![momo_social](https://github.com/Fuxiao-Gao/MOMO/assets/116308835/898003da-e4b7-4038-ae66-987362f46d09)
-Log in to see the site in production: https://momoxiao.netlify.app/login
+Log in to see the site in production: https://momoxiao.netlify.app
 
 ## Intro
 This is a full stack social media application created using React, Tailwind and Sanity. 
