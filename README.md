@@ -1,5 +1,6 @@
 # MOMO social media application
-![momo_social](https://github.com/Fuxiao-Gao/MOMO/assets/116308835/898003da-e4b7-4038-ae66-987362f46d09)
+![momo_social](https://github.com/Fuxiao-Gao/MOMO/assets/116308835/a880e7c8-8679-494b-864b-8581892abb5a)
+
 Log in to see the site in production: https://momoxiao.netlify.app
 
 ## Intro
